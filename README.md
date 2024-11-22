@@ -1,45 +1,45 @@
 # Comp3_Project_Berner_Galvan_Harris_Salvo_Equations
-Final Project for Computational Methods 3 course at Naval Postgraduate School under the tutelage of LTC Matthew Smith. This project develops an application to explore Hughes Salvo Equations via battle simulations. 
-## Suggestions for a good README
+Final Project for Computational Methods 3 course at Naval Postgraduate School (NPS) under the tutelage of LTC Matthew Smith. This project develops an application to explore Hughes Salvo Equations via battle simulations. 
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+## Overall Project Objective
 
-## Name
-Choose a self-explaining name for your project.
+## Setup Prerequisites 
+1. Ensure you have an NPS Hamming High Performance Computing (HPC) account with username and password.
+2. To run this you must either be on the NPS network or GlobalConnect VPN.
+3. f
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+## Project Workflow
+
+
+## Files associated with this project
+
 
 ## Visuals
 Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+![Basic Equation](basic.png)
+
+![Salvo App In Action (salvo_app_in_action.gif)]
+
 
 ## Usage
 Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
 
 ## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+Reach out to any of the authors of this github repo (Captains John Berner, Michael Galvan, and/or Ryan Harris, USMC) or your friendly neighborhood Comp 3 professor. Our nps emails will likely have evaporated by now but you can find us on the USMC locator (ask a Marine to help you). 
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+## Potential future additions
+This methodology should provide a solid framework for if you wish to make a tool that works for other salvo equations or Lanchester-based equations. There will likely need to be some tweaking to the code and the simulation process (changing simultaenous salvos to perhaps sequential for example) but your Comp 3 class should equip you with the skills to do so. There's also always trusty Captain ChatGPT to lend a hand. 
 
 ## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+If you do create a new workflow that explores another salvo equation, please feel free to reach out to us and we'd love to update this page with that addition. 
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+## Acknowledgment
+A special thank you to LTC Smith for teaching us some very challenging and new material in a comprehensive and structured way. We owe a lot of future success to the foundations you built for us. Thank you sir!
 
 ## License
-For open source projects, say how it is licensed.
+MIT License: AKA very permissive. But just enough protection so we aren't liable for any real-world force allocation decisions you may or may not base upon this work. 
 
 ## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+Currently it runs for the four models we simulated (Basic, Basic Stochastic, Modified, Modified Stochastic) and we don't look to add any more ourselves at this time but are open to additons from other users who feel so inclined. 
