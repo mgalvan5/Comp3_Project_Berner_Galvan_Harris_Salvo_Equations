@@ -63,7 +63,7 @@ Depending on what you are making, it can be a good idea to include screenshots o
 
 
 ## Support
-Reach out to any of the authors of this github repo (Captains John Berner, Michael Galvan, and/or Ryan Harris, USMC) or your friendly neighborhood Comp 3 professor. Our nps emails will likely have evaporated by now but you can find us on the USMC locator (ask a Marine to help you). 
+Reach out to any of the authors of this github repo (LCDR Thomas Stone, USN, Captains John Berner, Michael Galvan, and/or Ryan Harris, USMC) or your friendly neighborhood Comp 3 professor. Our NPS emails will likely have evaporated by now but you can find us on the USN or USMC locator (ask a Marine to help you). 
 
 ## Potential future additions
 This methodology should provide a solid framework for if you wish to make a tool that works for other salvo equations or Lanchester-based equations. There will likely need to be some tweaking to the code and the simulation process (changing simultaenous salvos to perhaps sequential for example) but your Comp 3 class should equip you with the skills to do so. There's also always trusty Captain ChatGPT to lend a hand. 
