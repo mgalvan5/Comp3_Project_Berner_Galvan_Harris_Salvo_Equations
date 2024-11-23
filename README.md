@@ -59,7 +59,7 @@ Depending on what you are making, it can be a good idea to include screenshots o
 
 ![Basic Equation](basic.png)
 
-![Salvo App In Action (salvo_app_in_action.gif)]
+![Salvo App In Action](salvo_app_in_action.gif)
 
 
 ## Support
