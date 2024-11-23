@@ -57,9 +57,13 @@ Useful resources if you still can't get it setup:
 
 ## Visual Walk Through
 
+1. Ensure Connection to VPN and run streamlit app
 
 
-https://github.com/user-attachments/assets/2a24001b-3d95-4167-be9f-0ccaea01d23b
+Uploading Hughes_Salvo_App_V3.py - Final_Project - Visual Studio Code 2024-11-22 22-07-57.mp4…
+
+
+   
 
 
 
