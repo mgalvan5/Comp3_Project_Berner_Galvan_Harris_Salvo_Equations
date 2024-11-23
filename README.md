@@ -55,12 +55,13 @@ Useful resources if you still can't get it setup:
 10. Run another Model! Hitting the `Generate DOE and Prep Model` button a second time will clear the heatmap from the page, and clear the contents of your `Salvo_outputs` directory in HPC to clear storage for the new models outputs. If you want to access any of the files from running the model, you will need to do so through a separate HPC interface before generating a new design.
 11. If you want to run the same model, make sure you rename or move the `.csv` file with your results to a separate directory, as the output of the second run will overwrite the output of the first if the same model is selected. The same goes for the `sim_DOE.csv` file. 
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+## Visual Walk Through
 
-![Basic Equation](basic.png)
 
-![Salvo App In Action](salvo_app_in_action.gif)
+
+https://github.com/user-attachments/assets/2a24001b-3d95-4167-be9f-0ccaea01d23b
+
+
 
 
 ## Support
