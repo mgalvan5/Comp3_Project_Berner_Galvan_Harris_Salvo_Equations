@@ -57,8 +57,6 @@ Useful resources if you still can't get it setup:
 
 ## Visual Walk Through
 
-1. Ensure Connection to VPN and run streamlit app
-
 
 
 https://github.com/user-attachments/assets/53cd67e9-a26b-4c0d-a444-e03f1f5dcbb7
