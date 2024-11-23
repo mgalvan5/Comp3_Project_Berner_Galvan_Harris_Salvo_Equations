@@ -78,4 +78,4 @@ A special thank you to LTC Smith for teaching us some very challenging and new m
 MIT License: AKA very permissive. But just enough protection so we aren't liable for any real-world force allocation decisions you may or may not base upon this work. 
 
 ## Project status
-Currently it runs for the four models we simulated (Basic, Basic Stochastic, Modified, Modified Stochastic) and we don't look to add any more ourselves at this time but are open to additons from other users who feel so inclined. 
+Currently it runs for the four models we simulated (Basic, Basic Stochastic, Modified, Modified Stochastic) and we don't look to add any more ourselves at this time but are open to additions from other users who feel so inclined. 
